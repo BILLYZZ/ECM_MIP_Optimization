@@ -1,0 +1,170 @@
+{
+    "1": {
+        "building_type_id": 1,
+        "building_type_name": "SmallOffice",
+        "vintage_id": 1,
+        "climate_zone": 3,
+        "energy": 51100
+    },
+    "2": {
+        "building_type_id": 1,
+        "building_type_name": "SmallOffice",
+        "vintage_id": 1,
+        "climate_zone": 9,
+        "energy": 56210.00000000001
+    },
+    "3": {
+        "building_type_id": 1,
+        "building_type_name": "SmallOffice",
+        "vintage_id": 5,
+        "climate_zone": 3,
+        "energy": 45990.0
+    },
+    "4": {
+        "building_type_id": 1,
+        "building_type_name": "SmallOffice",
+        "vintage_id": 5,
+        "climate_zone": 9,
+        "energy": 50589.00000000001
+    },
+    "5": {
+        "building_type_id": 2,
+        "building_type_name": "MediumOffice",
+        "vintage_id": 1,
+        "climate_zone": 3,
+        "energy": 111480
+    },
+    "6": {
+        "building_type_id": 2,
+        "building_type_name": "MediumOffice",
+        "vintage_id": 1,
+        "climate_zone": 9,
+        "energy": 122628.00000000001
+    },
+    "7": {
+        "building_type_id": 2,
+        "building_type_name": "MediumOffice",
+        "vintage_id": 5,
+        "climate_zone": 3,
+        "energy": 100332.0
+    },
+    "8": {
+        "building_type_id": 2,
+        "building_type_name": "MediumOffice",
+        "vintage_id": 5,
+        "climate_zone": 9,
+        "energy": 110365.20000000001
+    },
+    "9": {
+        "building_type_id": 4,
+        "building_type_name": "SmallRetail",
+        "vintage_id": 1,
+        "climate_zone": 3,
+        "energy": 104020
+    },
+    "10": {
+        "building_type_id": 4,
+        "building_type_name": "SmallRetail",
+        "vintage_id": 1,
+        "climate_zone": 9,
+        "energy": 114422.00000000001
+    },
+    "11": {
+        "building_type_id": 4,
+        "building_type_name": "SmallRetail",
+        "vintage_id": 5,
+        "climate_zone": 3,
+        "energy": 93618.0
+    },
+    "12": {
+        "building_type_id": 4,
+        "building_type_name": "SmallRetail",
+        "vintage_id": 5,
+        "climate_zone": 9,
+        "energy": 102979.8
+    },
+    "13": {
+        "building_type_id": 8,
+        "building_type_name": "LargeOffice",
+        "vintage_id": 1,
+        "climate_zone": 3,
+        "energy": 9264000
+    },
+    "14": {
+        "building_type_id": 8,
+        "building_type_name": "LargeOffice",
+        "vintage_id": 1,
+        "climate_zone": 9,
+        "energy": 10190400.0
+    },
+    "15": {
+        "building_type_id": 8,
+        "building_type_name": "LargeOffice",
+        "vintage_id": 5,
+        "climate_zone": 3,
+        "energy": 8337600.0
+    },
+    "16": {
+        "building_type_id": 8,
+        "building_type_name": "LargeOffice",
+        "vintage_id": 5,
+        "climate_zone": 9,
+        "energy": 9171360.0
+    },
+    "17": {
+        "building_type_id": 11,
+        "building_type_name": "SingleFamilyHouse",
+        "vintage_id": 1,
+        "climate_zone": 3,
+        "energy": 16515
+    },
+    "18": {
+        "building_type_id": 11,
+        "building_type_name": "SingleFamilyHouse",
+        "vintage_id": 1,
+        "climate_zone": 9,
+        "energy": 18166.5
+    },
+    "19": {
+        "building_type_id": 11,
+        "building_type_name": "SingleFamilyHouse",
+        "vintage_id": 5,
+        "climate_zone": 3,
+        "energy": 14863.5
+    },
+    "20": {
+        "building_type_id": 11,
+        "building_type_name": "SingleFamilyHouse",
+        "vintage_id": 5,
+        "climate_zone": 9,
+        "energy": 16349.850000000002
+    },
+    "21": {
+        "building_type_id": 13,
+        "building_type_name": "MultiFamily",
+        "vintage_id": 1,
+        "climate_zone": 3,
+        "energy": 54961
+    },
+    "22": {
+        "building_type_id": 13,
+        "building_type_name": "MultiFamily",
+        "vintage_id": 1,
+        "climate_zone": 9,
+        "energy": 60457.100000000006
+    },
+    "23": {
+        "building_type_id": 13,
+        "building_type_name": "MultiFamily",
+        "vintage_id": 5,
+        "climate_zone": 3,
+        "energy": 49464.9
+    },
+    "24": {
+        "building_type_id": 13,
+        "building_type_name": "MultiFamily",
+        "vintage_id": 5,
+        "climate_zone": 9,
+        "energy": 54411.39000000001
+    }
+}
